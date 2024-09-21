@@ -13,7 +13,7 @@ This project implements a maze-solving algorithm in Haskell. The system can read
 **Customizable Input:** Supports maze input from various sources, allowing flexibility in how the maze is presented.
 
 ## Installation ##
-To run the maze solver:
+### To run the maze solver: ###
 
 ***Clone this repository:***
 ```
